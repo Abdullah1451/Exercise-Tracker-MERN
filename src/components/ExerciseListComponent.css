@@ -1,0 +1,14 @@
+.error_h1{
+    display:flex;
+    justify-content: center;
+    color: red;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    margin-top: 50px
+    
+}
+
+.toastError{
+    display: none;
+}

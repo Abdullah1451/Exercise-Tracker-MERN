@@ -1,0 +1,29 @@
+.delete_action{
+    border: none;
+    color: blue;
+    cursor: pointer;
+    border-radius: 15px;
+    background-color: rgb(50, 215, 166);
+    margin-left: 15px;
+
+}
+
+.link_action{
+    color: blue;
+    text-decoration: none;
+    border-radius: 13px;
+    background-color: rgb(50, 215, 166);
+    width: 28%;
+    text-align: center;
+}
+
+
+.link_action:hover{
+    color: rgb(255, 0, 0);
+    background-color: rgb(133, 238, 140);
+}
+
+.delete_action:hover{
+    color: red;
+    background-color: rgb(133, 238, 140);
+}
